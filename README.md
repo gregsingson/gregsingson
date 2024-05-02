@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Greg Singson!
+🌱 I’m currently learning Java, Python, want to refine and revisit SQL.
 <!--
 **gregsingson/gregsingson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
